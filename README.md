@@ -1,2 +1,2 @@
-# employee-manager-frontend
+# Skillset-manager-frontend
 front end using angular
